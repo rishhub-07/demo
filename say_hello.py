@@ -3,3 +3,6 @@ def say_hello(name):
     print(f"Hello, {names[0]}")
 name=input("Enter your name: ")
 say_hello(name)
+#says hello
+
+print ("How are you")
